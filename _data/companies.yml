@@ -3429,6 +3429,20 @@
     description: 
     url: 
 -
+    date: 1-Jan-2014
+    company: Edge
+    classification: Infrastructure
+    roundsize: 2.2
+    cumulative: 2.2
+    round: Seed
+    investors: Plug and Play Tech Center, Block 26, Lakeshore Energy Capital
+    headquartered: San Diego, California
+    country: United States
+    region: US & Canada
+    img: edge.png
+    description: 
+    url: https://edge.app/
+-
     date: 31-Dec-2013
     company: COINFIRMA
     classification: Financial Services

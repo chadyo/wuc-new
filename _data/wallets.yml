@@ -98,6 +98,14 @@
    download: https://play.google.com/store/apps/details?id=de.schildbach.wallet&hl=en
    img: bitcoinwallet
 
+ - wallet: Edge
+   description: <p>Edge Wallet was created by the team at Airbitz, a popular mobile Bitcoin wallet. Edge is a mobile, multi-asset wallet that supports crypto-to-crypto exchange, fiat to crypto conversion, as well as send and receive functionality for most of the top cryptocurrency networks.</p><p>With a simple username and password, Edge secures cryptocurrency with client side encryption, doesn’t have access to your funds, and doesn’t collect any personal information. This provides a more familiar and forgiving method of securing cryptocurrency vs having to write down and securing paper backups. Users who do want to back-up their seed(s) are still able to do so. </p>
+   category: mobileandroid
+   download: https://play.google.com/store/apps/details?id=co.edgesecure.app
+   img: edge
+   tags: start, mobile
+   more_info: /edge/
+
  - wallet: Airbitz
    description: <p><a href="/airbitz/">AirBitz</a> is another Bitcoin wallet that’s great for everyday use. It’s integrated with Fold, meaning you can get 20% discounts at Starbucks from within the wallet.</p><p>Airbitz manages accounts with usernames and passwords, but doesn’t have access to your funds. This type of account creation is easier for less technical users who may have trouble backing up or understanding HD seeds.</p>
    category: mobileandroid
@@ -127,6 +135,13 @@
    category: mobileios
    download: https://itunes.apple.com/us/app/copay/id951330296
    img: copay
+
+ - wallet: Edge
+   description: Edge Wallet is also available in the App Store. 
+   category: mobileios
+   download: https://itunes.apple.com/us/app/edge-bitcoin-wallet/id1344400091?mt=8
+   img: edge
+   more_info: /edge/
 
  - wallet: Airbitz
    description: AirBitz is also available in the App Store. 
